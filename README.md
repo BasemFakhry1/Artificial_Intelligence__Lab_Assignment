@@ -188,9 +188,8 @@ Purpose:
 
 You can open the notebook directly in Google Colab using the badge below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_LINK)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNII7A6Ntw9D8838r4qpeQGfYA51Moyq?usp=sharing)
 
-Replace `YOUR_NOTEBOOK_LINK` with your notebook URL after uploading it to GitHub.
 
 ---
 
